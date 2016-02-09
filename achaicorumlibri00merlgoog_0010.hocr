@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "achaicorumlibri00merlgoog_0010.png"; bbox 0 0 2902 4956; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 87 1195 1165 1442">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 87 1195 1165 1442">
+     <span class='ocr_line' id='line_1_1' title="bbox 87 1195 1165 1442; baseline -0.008 -34"><span class='ocrx_word' id='word_1_1' title='bbox 87 1292 283 1408; x_wconf 81' lang='lat' dir='ltr'><strong>CARL.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 342 1289 484 1400; x_wconf 81' lang='lat' dir='ltr'><strong>GUI.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 541 1209 709 1399; x_wconf 77' lang='lat' dir='ltr'><strong>AUG.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 767 1195 1165 1442; x_wconf 60' lang='lat' dir='ltr'><strong>DRUMANNO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 22 1609 1256 2042">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 22 1609 1256 2104">
+     <span class='ocr_line' id='line_1_2' title="bbox 22 1609 1248 1792; baseline -0.002 -71"><span class='ocrx_word' id='word_1_5' title='bbox 22 1779 25 1792; x_wconf 17' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 174 1610 447 1720; x_wconf 76' lang='lat' dir='ltr'><strong>CHRJST.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 478 1609 663 1752; x_wconf 67' lang='lat' dir='ltr'><strong>Avo.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 712 1609 1072 1720; x_wconf 70' lang='lat' dir='ltr'>Losssscfflo</span> <span class='ocrx_word' id='word_1_9' title='bbox 1245 1637 1248 1652; x_wconf 92' lang='lat'><em>·</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 176 1905 1256 2042; baseline 0 -2"><span class='ocrx_word' id='word_1_10' title='bbox 176 1905 369 2040; x_wconf 64' lang='lat' dir='ltr'><strong>mo.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 409 1929 593 2040; x_wconf 82' lang='lat' dir='ltr'><strong>GUIL.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 632 1927 1054 2042; x_wconf 78' lang='lat' dir='ltr'>SGHUBERTO</span> <span class='ocrx_word' id='word_1_13' title='bbox 1247 1925 1256 1936; x_wconf 76' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1456 4956">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1456 4956">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1456 4956; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1456 4956; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
